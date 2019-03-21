@@ -1,0 +1,23 @@
+{
+  "name": "sending-mail-nodejs",
+  "version": "1.0.0",
+  "description": "Sending mails from nodejs using nodemailer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pavloskii/sending-mail-nodejs.git"
+  },
+  "author": "Igor Pavloski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pavloskii/sending-mail-nodejs/issues"
+  },
+  "homepage": "https://github.com/pavloskii/sending-mail-nodejs#readme",
+  "dependencies": {
+    "dotenv": "^7.0.0",
+    "nodemailer": "^5.1.1"
+  }
+}
